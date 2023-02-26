@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Egor
 
-I'm Senior Software Engineer at Tinkoff. Currently I'm living in **Armenia**. Always open to collaborating on projects and innovative ideas. Feel free to connect with me.
+I'm Senior Software Engineer at Tinkoff. Currently I'm living in **Armenia**. Always open to collaborating on projects and innovative ideas. Don't hesitate to reach me, I'm ready to help!
 
 ### Reach me
 
