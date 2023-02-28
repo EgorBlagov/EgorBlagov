@@ -17,7 +17,7 @@ I'm Senior Software Engineer at Tinkoff. Currently I'm living in **Armenia**. Al
 ### Compete
 
 [![LeetCode](https://img.shields.io/badge/-EgorBlagov-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EgorBlagov/)
-[![Codeforces](https://img.shields.io/badge/-e.m.blagov-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/e.m.blagov)
+[![Codeforces](https://img.shields.io/badge/-e.m.blagov-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/e.m.blagov)
 
 ### Work
 #### [Tinkoff](https://en.wikipedia.org/wiki/Tinkoff_Bank) - Top 1 neobank in Russia, one of the world's largest digital banks
